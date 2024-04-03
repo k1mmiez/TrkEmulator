@@ -1,0 +1,5 @@
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\publish\TrkEmulator.exe
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\publish\TrkEmulator.dll
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\publish\TrkEmulator.deps.json
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\publish\TrkEmulator.runtimeconfig.json
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\publish\TrkEmulator.pdb

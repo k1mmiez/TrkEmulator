@@ -1,0 +1,15 @@
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\TrkEmulator.exe
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\TrkEmulator.deps.json
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\TrkEmulator.runtimeconfig.json
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\TrkEmulator.dll
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\bin\Release\net7.0\TrkEmulator.pdb
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.csproj.AssemblyReference.cache
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.AssemblyInfoInputs.cache
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.AssemblyInfo.cs
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.csproj.CoreCompileInputs.cache
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.dll
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\refint\TrkEmulator.dll
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.pdb
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\TrkEmulator.genruntimeconfig.cache
+C:\Users\bakha\RiderProjects\TrkEmulator\TrkEmulator\obj\Release\net7.0\ref\TrkEmulator.dll
